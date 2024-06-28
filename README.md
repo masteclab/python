@@ -1,3 +1,3 @@
 # python
 
-This repository contains Python code for working with OPC-UA
+This repository contains python code for working with OPC-UA
